@@ -15,3 +15,7 @@
 ## Create a url using these credentials and Resource url(https://api.twitter.com/1.1/statuses/home_timeline.json)
    get the json file and retive the url from the tweets.
    
+## we can also authenticate using fire base Twitter Authentication.
+ For firebase authentication first we need to create a project in fire base and update gradle file.
+ 
+
