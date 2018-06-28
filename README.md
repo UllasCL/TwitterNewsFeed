@@ -36,6 +36,10 @@ by pressing the default Twitter id.
 
 # Create New Twitter account
  ![screenshot_2018-06-27-23-36-38-242_com twitter android](https://user-images.githubusercontent.com/37345220/41991642-bf676f10-7a63-11e8-8624-82a9a65799ad.png)
+ 
+# User Id of authenticated user to fetch twitter timiline
+![screenshot_2018-06-28-14-49-23-382_com ullas twitter](https://user-images.githubusercontent.com/37345220/42025643-b5b21388-7ae2-11e8-851c-916b1f537d0c.png)
+
 
 # Fetching data from Twitter Account
 ![screenshot_2018-06-28-13-34-12-596_com ullas twitter](https://user-images.githubusercontent.com/37345220/42025127-7d549746-7ae1-11e8-9305-ab0efd8ba114.png)
