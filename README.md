@@ -2,6 +2,8 @@
 
 # Executable apk file : app-debug.apk 
 
+# Keystore file : Tweet.jks
+
 ## Create a twitter application using the link apps.twitter.com
 ## Change the permission to Read, Write and Access direct messages
 # Credentials
