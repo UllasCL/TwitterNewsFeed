@@ -31,7 +31,7 @@ by pressing the default Twitter id.
 
 # Welcome Page
 ![screenshot_2018-06-27-23-36-27-705_com ullas twitter](https://user-images.githubusercontent.com/37345220/41991530-54cc5e5e-7a63-11e8-8f63-806a02e2f656.png)
-<img src="https://user-images.githubusercontent.com/37345220/41991530-54cc5e5e-7a63-11e8-8f63-806a02e2f656.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/37345220/41991530-54cc5e5e-7a63-11e8-8f63-806a02e2f656.png" alt="drawing" style="width:20px;"/>
 
 # Authentication Page
 ![screenshot_2018-06-27-23-36-35-573_com twitter android](https://user-images.githubusercontent.com/37345220/41991590-90bd6a34-7a63-11e8-9573-15f3bf2543aa.png)
